@@ -2,6 +2,8 @@
 
 ### How to install ?
 
+Create a .env file, provide 'GOOGLE_API_KEY=<your key>'
+
 In Terminal or Command Prompt use :<br>`$ pip install -r requirments.txt` <br>
 (before installing it is advised to use a separate env, to create or how to use [check here](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) )
 
